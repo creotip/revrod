@@ -1,0 +1,31 @@
+import {
+  WiThunderstorm,
+  WiRainMix,
+  WiSnow,
+  WiCloudy,
+  WiDayHaze,
+  WiSmoke,
+  WiDust,
+  WiSandstorm,
+  WiFog,
+  WiMoonAltFull,
+  WiTornado,
+} from 'react-icons/wi'
+
+export const weatherIconsMap: Record<string, any> = {
+  Thunderstorm: WiThunderstorm,
+  Drizzle: WiRainMix,
+  Rain: WiRainMix,
+  Snow: WiSnow,
+  Mist: WiCloudy,
+  Smoke: WiSmoke,
+  Haze: WiDayHaze,
+  Dust: WiDust,
+  Fog: WiFog,
+  Sand: WiSandstorm,
+  Ash: WiSmoke,
+  Squall: WiRainMix,
+  Tornado: WiTornado,
+  Clear: WiMoonAltFull,
+  Clouds: WiCloudy,
+} as const
