@@ -2,11 +2,12 @@
 
 <https://revrod.vercel.app/>
 
-<img width="973" alt="Screenshot 2023-07-02 at 2 09 36" src="https://github.com/creotip/revrod/assets/3135968/c47f0c61-db8e-4ffc-9df0-71407a1a7444">
+<img width="973" alt="Screenshot 2023-07-02 at 2 09 36" src="https://github.com/creotip/revrod/assets/3135968/4f508f0e-92b5-4205-84cb-5465a157e8c9">
 
 ## Tech Stack
 
 The Weather Application is built using the following:
+
 
 - React-Typescript
 - Bundler: Vite
